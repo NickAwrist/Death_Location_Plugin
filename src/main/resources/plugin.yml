@@ -1,0 +1,4 @@
+name: Death Location
+version: '${project.version}'
+main: nicholas.death_location.DeathLocation
+api-version: '1.20'
