@@ -1,4 +1,4 @@
-name: Death Location
+name: Death_Location
 version: '${project.version}'
 main: nicholas.death_location.DeathLocation
 api-version: '1.20'
