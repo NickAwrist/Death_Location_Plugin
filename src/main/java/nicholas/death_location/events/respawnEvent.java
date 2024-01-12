@@ -35,7 +35,7 @@ public class respawnEvent implements Listener {
                 break;
         }
 
-        Msg.send(e.getPlayer(), "&rYou have died at &ax="+x+" y="+y+" z="+z+" &rin the "+worldName);
+        Msg.send(e.getPlayer(), "&rYou have died at &ax= &2"+x+"  &ay= &2"+y+"  &az= &2"+z+"  &rin the "+worldName);
 
     }
 
